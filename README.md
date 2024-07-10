@@ -1,7 +1,5 @@
-## Margaret Capetz
-### [Linkedin](https://www.linkedin.com/in/margaret-capetz/) | [Github](https://github.com/mcapetz) | [CV](https://drive.google.com/file/d/1aFCfoEKEO5TYYh8ssVeL8pzZVYwXzRAT/view?usp=sharing)
-
 ## About
+### [Linkedin](https://www.linkedin.com/in/margaret-capetz/) | [Github](https://github.com/mcapetz) | [CV](https://drive.google.com/file/d/1aFCfoEKEO5TYYh8ssVeL8pzZVYwXzRAT/view?usp=sharing)
 Hello! I am a Computer Science undergraduate student at UCLA. I am interested in applying machine learning for equity and innovations in sustainability.
 
 My experience spans climate research, machine learning, software engineering, and community organizing. Broadly, I care about climate action and social equity. I am particularly interested in machine learning for power and energy systems to make the clean energy transition more equitable. My other research interests include graph machine learning, data-driven agriculture, bioremediation. 
