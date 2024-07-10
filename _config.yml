@@ -1,5 +1,11 @@
 title: Margaret Capetz (she/her)
 logo: linkedinpfp.png
-description: mcapetz17 g dot ucla dot edu
+author:
+  name: Margaret Capetz
+  email: mcapetz17@g.ucla.edu
+# description: mcapetz17 g dot ucla dot edu
 show_downloads: false
 theme: jekyll-theme-minimal
+social_links:
+   - { platform: github,         user_url: "https://github.com/mcapetz" }
+   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/margaret-capetz/" }
