@@ -63,9 +63,9 @@ Computer Science Major, Class of 2025
 - Esther Williams Endowment Scholarship, Society of Women Engineers Santa Clara Valley, March 2021
 
 ## Leadership
-- External Vice President | [Society of Women Engineers @ UCLA](https://ucla.swe.org/) | May 2023 - 2024
-- Technical Director / [QWER Hacks Director](https://www.qwerhacks.com/) | Society of Women Engineers @ UCLA
-- Outreach Officer | [ACM AI @ UCLA](https://www.uclaacm.com/committees#ai)
+- External Vice President, [Society of Women Engineers @ UCLA](https://ucla.swe.org/), May 2023 - 2024
+- Technical Director / [QWER Hacks Director](https://www.qwerhacks.com/), Society of Women Engineers @ UCLA. May 2022 - 2023
+- Outreach Officer, [ACM AI @ UCLA](https://www.uclaacm.com/committees#ai), May 2022 - May 2023
 
 ## Press
 - Bruins code in QWER Hacks to combat persistent LGBTQ+ inequalities, [Daily Bruin](https://dailybruin.com/2023/02/10/bruins-code-in-qwer-hacks-to-combat-persistent-lgbtq-inequalities) (2023)
