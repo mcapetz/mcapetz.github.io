@@ -1,4 +1,4 @@
-### Margaret Capetz
+## Margaret Capetz
 ### [Linkedin](https://www.linkedin.com/in/margaret-capetz/) | [Github](https://github.com/mcapetz) | [CV](https://drive.google.com/file/d/1aFCfoEKEO5TYYh8ssVeL8pzZVYwXzRAT/view?usp=sharing)
 
 ## About
