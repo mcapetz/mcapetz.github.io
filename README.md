@@ -53,14 +53,14 @@ Computer Science Major, Class of 2025
 - [Carbon Conscious Cooking Cookbook](https://github.com/mcapetz/Cookbook)(October 2020)
 
 ## Honors and Awards
-- AV Balakrishnan Endowed Scholarship Fund | UCLA Samueli School of Engineering | September 2023
-- Rivian Scholarship | Rivian via SWE @ UCLA | June 2023
-- Esther Williams Endowment Scholarship | Society of Women Engineers Santa Clara Valley | May 2023
-- SWE Los Angeles Section Scholarship | Society of Women Engineers Los Angeles | March 2023
-- Dr. Vincent Ho Scholarship in Engineering | UCLA Samueli School of Engineering | December 2021
-- 2nd, Biological Science Engineering Category | Synopsys Science & Technology Championship | March 2021
-- 5th, Senior Biochemistry Molecular Biology Category | California Science & Engineering Fair | March 2021
-- Esther Williams Endowment Scholarship | Society of Women Engineers Santa Clara Valley | March 2021
+- AV Balakrishnan Endowed Scholarship Fund, UCLA Samueli School of Engineering, September 2023
+- Rivian Scholarship, Rivian via SWE @ UCLA, June 2023
+- Esther Williams Endowment Scholarship, Society of Women Engineers Santa Clara Valley, May 2023
+- SWE Los Angeles Section Scholarship, Society of Women Engineers Los Angeles, March 2023
+- Dr. Vincent Ho Scholarship in Engineering, UCLA Samueli School of Engineering, December 2021
+- 2nd, Biological Science Engineering Category, Synopsys Science & Technology Championship, March 2021
+- 5th, Senior Biochemistry Molecular Biology Category, California Science & Engineering Fair, March 2021
+- Esther Williams Endowment Scholarship, Society of Women Engineers Santa Clara Valley, March 2021
 
 ## Leadership
 - External Vice President | [Society of Women Engineers @ UCLA](https://ucla.swe.org/) | May 2023 - 2024
