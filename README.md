@@ -1,3 +1,5 @@
+### [Linkedin](https://www.linkedin.com/in/margaret-capetz/) | [Github](https://github.com/mcapetz) | [CV](https://drive.google.com/file/d/1aFCfoEKEO5TYYh8ssVeL8pzZVYwXzRAT/view?usp=sharing)
+
 ## About
 Hello! I am a Computer Science undergraduate student at UCLA. I am interested in applying machine learning for equity and innovations in sustainability.
 
