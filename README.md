@@ -13,11 +13,14 @@ Computer Science Major, Class of 2025
 **Research Intern @ Microsoft Research (_June - Sept 2024_)**
 - Applying machine learning to support regenerative agriculture
 - Working with [Swati Sharma](https://scholar.google.com/citations?user=J2nWkfsAAAAJ&hl=en), [Emre Kiciman](https://scholar.google.com/citations?hl=en&user=QZCU3NkAAAAJ), [Ranveer Chandra](https://scholar.google.com/citations?hl=en&user=Zq4ioqu5yb8C)
+  
 **Sofware Engineering Intern @ Microsoft (_June - Sept 2023_)**
 - Developed internal autoresponder that leverages institutional knowledge to provide comprehensive answers to technical questions and identify areas of improvement in documentation
 - Applied machine learning and data science techniques to improve accuracy 2x
+  
 **Sofware Engineering Intern @ ElectricFish (_June - Sept 2022_)**
 - Developed equity-based metric with data engineering and machine learning then conveyed metric via a full stack application with REST API integration to inform EV charger deployment strategy for utilities that serve 4.9 million power customers
+  
 **Web Developer @ Empower Health (_Feb - Sept 2022_)**
 - Promoted equity in healthcare for 500+ users by developing React hook-based forms for community review platform for social impact startup
 
@@ -25,13 +28,16 @@ Computer Science Major, Class of 2025
 **Research Assistant @ UCLA Scalable Analytics Institute (_March 2023 - Present_)**
 - Analyze fairness implications of knowledge distillation from graph convolutional networks to multilayer perceptrons for the task of node attribute classification with sensitive attributes on natively graph data
 - Working with [Professor Yizhou Sun](https://web.cs.ucla.edu/~yzsun/), [Arjun Subramonian](https://arjunsubramonian.github.io/)
+  
 **Research Assistant @ UCLA Mahendra Lab (_June 2021 - March 2023_)**
 - Aided data analysis for the lab’s California Water Board per- and polyfluoroalkyl substances (PFAS) project
 - Reviewed scientific literature regarding bioremediation
 - Became proficient in Mothur bioinformatics software
+  
 **Research Assistant @ Stanford Fendorf Lab (_August 2020 - June 2021_)**
 - Conducted data visualization in Excel for Fendorf Lab Ph.D. candidate’s California wildfire research to measure the public health risks of wildfires regarding hexavalent chromium and other elements
 - Analyzed data in Excel to show increased manganese soil concentrations post-wildfire
+  
 **Independent Student Researcher @ Los Altos High School (_August 2020 - June 2021_)**
 - Synthesized academic literature to inform experimentation on fungal bioremediation
 - Developed research proposal, experimental cell culture protocols, abstract
