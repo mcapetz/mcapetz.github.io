@@ -1,40 +1,71 @@
-# Data Scientist
+## About
+Hello! I am a Computer Science undergraduate student at UCLA. I am interested in applying machine learning for equity and innovations in sustainability.
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+My experience spans climate research, machine learning, software engineering, and community organizing. Broadly, I care about climate action and social equity. I am particularly interested in machine learning for power and energy systems to make the clean energy transition more equitable. My other research interests include graph machine learning, data-driven agriculture, bioremediation. 
+
+Outside of work, I love being outdoors, whether I’m rock climbing, backpacking, hiking, or swimming. I also enjoy cooking, listening to live jazz, and playing pickleball.
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+University of California, Los Angeles
+Computer Science Major, Class of 2025
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Research Intern @ Microsoft Research (_June - Sept 2024_)**
+- Applying machine learning to support regenerative agriculture
+- Working with [Swati Sharma](https://scholar.google.com/citations?user=J2nWkfsAAAAJ&hl=en), [Emre Kiciman](https://scholar.google.com/citations?hl=en&user=QZCU3NkAAAAJ), [Ranveer Chandra](https://scholar.google.com/citations?hl=en&user=Zq4ioqu5yb8C)
+**Sofware Engineering Intern @ Microsoft (_June - Sept 2023_)**
+- Developed internal autoresponder that leverages institutional knowledge to provide comprehensive answers to technical questions and identify areas of improvement in documentation
+- Applied machine learning and data science techniques to improve accuracy 2x
+**Sofware Engineering Intern @ ElectricFish (_June - Sept 2022_)**
+- Developed equity-based metric with data engineering and machine learning then conveyed metric via a full stack application with REST API integration to inform EV charger deployment strategy for utilities that serve 4.9 million power customers
+**Web Developer @ Empower Health (_Feb - Sept 2022_)**
+- Promoted equity in healthcare for 500+ users by developing React hook-based forms for community review platform for social impact startup
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Research Experience
+**Research Assistant @ UCLA Scalable Analytics Institute (_March 2023 - Present_)**
+- Analyze fairness implications of knowledge distillation from graph convolutional networks to multilayer perceptrons for the task of node attribute classification with sensitive attributes on natively graph data
+- Working with [Professor Yizhou Sun](https://web.cs.ucla.edu/~yzsun/), [Arjun Subramonian](https://arjunsubramonian.github.io/)
+**Research Assistant @ UCLA Mahendra Lab (_June 2021 - March 2023_)**
+- Aided data analysis for the lab’s California Water Board per- and polyfluoroalkyl substances (PFAS) project
+- Reviewed scientific literature regarding bioremediation
+- Became proficient in Mothur bioinformatics software
+**Research Assistant @ Stanford Fendorf Lab (_August 2020 - June 2021_)**
+- Conducted data visualization in Excel for Fendorf Lab Ph.D. candidate’s California wildfire research to measure the public health risks of wildfires regarding hexavalent chromium and other elements
+- Analyzed data in Excel to show increased manganese soil concentrations post-wildfire
+**Independent Student Researcher @ Los Altos High School (_August 2020 - June 2021_)**
+- Synthesized academic literature to inform experimentation on fungal bioremediation
+- Developed research proposal, experimental cell culture protocols, abstract
+- Integrated mutagenesis, electrostatic interplay, and surface interactions to improve biodegradation of polyethylene terephthalate (PET plastic) by filamentous fungal enzyme Aspergillus Oryzae
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+- Vinella A., Capetz M., Pattichis R., Chance C., Ghosh R. [Leveraging Language Models to Detect Greenwashing (2023)](https://arxiv.org/abs/2311.01469)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## Projects
+- [Leveraging LLMs and Topic Modeling or Toxicity Classification](https://github.com/mcapetz/cs247) (March 2024)
+- [Predicting California Grape Cultivation Conditions in the Era of Climate Change and Wildfires](https://github.com/mcapetz/cs269) (December 2023)
+- [KaoGPT](https://github.com/mcapetz/ecec147) (March 2023)
+- [Carbon Conscious Cooking Cookbook](https://github.com/mcapetz/Cookbook)(October 2020)
+
+## Honors and Awards
+- AV Balakrishnan Endowed Scholarship Fund | UCLA Samueli School of Engineering | September 2023
+- Rivian Scholarship | Rivian via SWE @ UCLA | June 2023
+- Esther Williams Endowment Scholarship | Society of Women Engineers Santa Clara Valley | May 2023
+- SWE Los Angeles Section Scholarship | Society of Women Engineers Los Angeles | March 2023
+- Dr. Vincent Ho Scholarship in Engineering | UCLA Samueli School of Engineering | December 2021
+- 2nd, Biological Science Engineering Category | Synopsys Science & Technology Championship | March 2021
+- 5th, Senior Biochemistry Molecular Biology Category | California Science & Engineering Fair | March 2021
+- Esther Williams Endowment Scholarship | Society of Women Engineers Santa Clara Valley | March 2021
+
+## Leadership
+- External Vice President | [Society of Women Engineers @ UCLA](https://ucla.swe.org/) | May 2023 - 2024
+- Technical Director / [QWER Hacks Director](https://www.qwerhacks.com/) | Society of Women Engineers @ UCLA
+- Outreach Officer | [ACM AI @ UCLA](https://www.uclaacm.com/committees#ai)
+
+## Press
+- Bruins code in QWER Hacks to combat persistent LGBTQ+ inequalities, [Daily Bruin](https://dailybruin.com/2023/02/10/bruins-code-in-qwer-hacks-to-combat-persistent-lgbtq-inequalities) (2023)
+- Community Highlights: Meet Margaret Capetz of QWER Hacks, [VoyageLA](https://voyagela.com/interview/community-highlights-meet-margaret-capetz-of-qwer-hacks/) (2023)
+- 24 Hours of Queers, Coding, and Technology: QWER Hacks 2023, [Outwrite News Magazine](https://outwritenewsmag.org/2023/01/24-hours-of-queers-coding-and-technology-qwer-hacks-2023/) (2023)
+- Undergraduate Student in Mahendra Lab Awarded Several Scholarships, [UCLA Samueli Civil & Environmental Engineering](https://www.cee.ucla.edu/undergraduate-student-in-mahendra-lab-awarded-several-scholarships/) (2022)
+- Los Altos High School senior publishes plant-based cookbook, [Los Altos Town Crier](https://www.losaltosonline.com/schools/los-altos-high-school-senior-publishes-plant-based-cookbook/article_479e2bdd-d1d9-546b-b100-94715244f869.html) (2020)
+- Excerpt in Bill McKibben's column, [The New Yorker](https://www.newyorker.com/news/annals-of-a-warming-planet/theres-nothing-sacred-about-nine-justices-a-livable-planet-on-the-other-hand) (2020)
+- Senior Margaret Capetz’s cookbook makes sustainability delicious, [The Talon](https://lahstalon.org/carbon-conscious-cooking/) (2020)
