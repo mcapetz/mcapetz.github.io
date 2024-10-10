@@ -12,8 +12,11 @@ Computer Science Major, Class of 2025
 
 ## Work Experience
 **Research Intern @ Microsoft Research (_June - Sept 2024_)**
-- Applying machine learning to support regenerative agriculture
-- Working with [Swati Sharma](https://scholar.google.com/citations?user=J2nWkfsAAAAJ&hl=en), [Emre Kiciman](https://scholar.google.com/citations?hl=en&user=QZCU3NkAAAAJ), [Ranveer Chandra](https://scholar.google.com/citations?hl=en&user=Zq4ioqu5yb8C)
+- Conducted a high-resolution, large-scale analysis of soil health for 270+ California farms using geospatial data
+- Enabled regenerative agriculture by developing an equitable soil carbon copilot with multi-resolution, multi-modal tools to provide large-scale, localized insights for soil health with personalized stakeholder engagement
+- First author on workshop paper accepted at NeurIPS 2024 as a poster
+- Contributed to 1 paper in submission to Nature
+- Worked with [Swati Sharma](https://scholar.google.com/citations?user=J2nWkfsAAAAJ&hl=en), [Emre Kiciman](https://scholar.google.com/citations?hl=en&user=QZCU3NkAAAAJ), [Ranveer Chandra](https://scholar.google.com/citations?hl=en&user=Zq4ioqu5yb8C)
   
 **Sofware Engineering Intern @ Microsoft (_June - Sept 2023_)**
 - Developed internal autoresponder that leverages institutional knowledge to provide comprehensive answers to technical questions and identify areas of improvement in documentation
@@ -45,15 +48,19 @@ Computer Science Major, Class of 2025
 - Integrated mutagenesis, electrostatic interplay, and surface interactions to improve biodegradation of polyethylene terephthalate (PET plastic) by filamentous fungal enzyme Aspergillus Oryzae
 
 ## Publications
-- Vinella A., Capetz M., Pattichis R., Chance C., Ghosh R. [Leveraging Language Models to Detect Greenwashing (2023)](https://arxiv.org/abs/2311.01469)
+- Capetz M., Sharma S., Padilha R., Olsen P., Kiciman E., Chandra R. Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots (NeurIPS 2024 Workshop Poster Paper, Climate Change AI Tackling Climate Change with ML Workshop)
+- Oskouie H., Chance C., Huang C., Capetz M., Eyeson E., Sarrafzadeh M. [Leveraging LLMs and Topic Modeling or Toxicity Classification](https://github.com/mcapetz/cs247) (In submission to ICNC)
+- Vinella A., Capetz M., Pattichis R., Chance C., Ghosh R. [Leveraging Language Models to Detect Greenwashing (2023)](https://arxiv.org/abs/2311.01469) (In submission to ACL)
+- TBD (In submission to Nature)
+
 
 ## Projects
-- [Leveraging LLMs and Topic Modeling or Toxicity Classification](https://github.com/mcapetz/cs247) (March 2024)
 - [Predicting California Grape Cultivation Conditions in the Era of Climate Change and Wildfires](https://github.com/mcapetz/cs269) (December 2023)
 - [KaoGPT](https://github.com/mcapetz/ecec147) (March 2023)
 - [Carbon Conscious Cooking Cookbook](https://github.com/mcapetz/Cookbook)(October 2020)
 
 ## Honors and Awards
+- James N. Harger Scholarship in Engineering, UCLA Samueli School of Engineering, September 2024
 - AV Balakrishnan Endowed Scholarship Fund, UCLA Samueli School of Engineering, September 2023
 - Rivian Scholarship, Rivian via SWE @ UCLA, June 2023
 - Esther Williams Endowment Scholarship, Society of Women Engineers Santa Clara Valley, May 2023
