@@ -49,8 +49,8 @@ Computer Science Major, Class of 2025
 
 ## Publications
 - Capetz M., Sharma S., Padilha R., Olsen P., Kiciman E., Chandra R. Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots (NeurIPS 2024 Workshop Poster Paper, Climate Change AI Tackling Climate Change with ML Workshop)
+- , Capetz M., Chance C., Pattichis R., Vinella A. Ghosh R., Chang K. [Leveraging Language Models to Detect Greenwashing (2023)](https://arxiv.org/abs/2311.01469) (Accepted to Southern California Natural Language Processing 2024, in submission to ACL Rolling Review)
 - Oskouie H., Chance C., Huang C., Capetz M., Eyeson E., Sarrafzadeh M. [Leveraging LLMs and Topic Modeling or Toxicity Classification](https://github.com/mcapetz/cs247) (In submission to ICNC)
-- Vinella A., Capetz M., Pattichis R., Chance C., Ghosh R. [Leveraging Language Models to Detect Greenwashing (2023)](https://arxiv.org/abs/2311.01469) (Accepted to Southern California Natural Language Processing 2024, in submission to ACL Rolling Review)
 - Large scale Soil carbon estimation using sentinel 2 (In submission to Nature)
 
 
