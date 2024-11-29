@@ -14,7 +14,7 @@ Computer Science Major, Class of 2025
 **Research Intern @ Microsoft Research (_June - Sept 2024_)**
 - Conducted a high-resolution, large-scale analysis of soil health for 270+ California farms using geospatial data
 - Enabled regenerative agriculture by developing an equitable soil carbon copilot with multi-resolution, multi-modal tools to provide large-scale, localized insights for soil health with personalized stakeholder engagement
-- First author on workshop paper accepted at NeurIPS 2024 as a poster
+- First author on workshop paper accepted at NeurIPS 2024 as a [poster](https://arxiv.org/abs/2411.16872)
 - Contributed to 1 paper in submission to Nature
 - Worked with [Swati Sharma](https://scholar.google.com/citations?user=J2nWkfsAAAAJ&hl=en), [Emre Kiciman](https://scholar.google.com/citations?hl=en&user=QZCU3NkAAAAJ), [Ranveer Chandra](https://scholar.google.com/citations?hl=en&user=Zq4ioqu5yb8C)
   
@@ -48,9 +48,9 @@ Computer Science Major, Class of 2025
 - Integrated mutagenesis, electrostatic interplay, and surface interactions to improve biodegradation of polyethylene terephthalate (PET plastic) by filamentous fungal enzyme Aspergillus Oryzae
 
 ## Publications
-- Capetz M., Sharma S., Padilha R., Olsen P., Kiciman E., Chandra R. Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots (NeurIPS 2024 Workshop Poster Paper, Climate Change AI Tackling Climate Change with ML Workshop)
-- , Capetz M., Chance C., Pattichis R., Vinella A. Ghosh R., Chang K. [Leveraging Language Models to Detect Greenwashing (2023)](https://arxiv.org/abs/2311.01469) (Accepted to Southern California Natural Language Processing 2024, in submission to ACL Rolling Review)
-- Oskouie H., Chance C., Huang C., Capetz M., Eyeson E., Sarrafzadeh M. [Leveraging LLMs and Topic Modeling or Toxicity Classification](https://github.com/mcapetz/cs247) (In submission to ICNC)
+- Capetz M., Sharma S., Padilha R., Olsen P., Kiciman E., Chandra R. [Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots](https://arxiv.org/abs/2411.16872) (NeurIPS 2024 Workshop Poster Paper, Climate Change AI Tackling Climate Change with ML Workshop)
+- Capetz M., Chance C., Pattichis R., Vinella A. Ghosh R., Chang K. [Leveraging Language Models to Detect Greenwashing (2023)](https://arxiv.org/abs/2311.01469) (Accepted to Southern California Natural Language Processing 2024)
+- Oskouie H., Chance C., Huang C., Capetz M., Eyeson E., Sarrafzadeh M. [Leveraging LLMs and Topic Modeling or Toxicity Classification](https://github.com/mcapetz/cs247) (Accepted to Computing, Networking, and Communication Workshop 2025, at the International Conference on Computing, Networking, and Communication)
 - Large scale Soil carbon estimation using sentinel 2 (In submission to Nature)
 
 
