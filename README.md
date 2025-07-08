@@ -7,8 +7,10 @@ My experience spans climate research, machine learning, software engineering, an
 Outside of work, I love being outdoors, whether I’m rock climbing, backpacking, hiking, or swimming. I also enjoy cooking, listening to live jazz, and playing pickleball.
 
 ## Education
+University of Washignton
+- Incoming PhD in Electrical and Computer Engineering
 University of California, Los Angeles
-Computer Science Major, Class of 2025
+- BS in Computer Science, Class of 2025
 
 ## Work Experience
 **Research Intern @ Microsoft Research (_June - Sept 2024_)**
