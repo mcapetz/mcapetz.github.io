@@ -4,10 +4,10 @@ Hello! I am a Computer Science undergraduate student at UCLA. I am interested in
 
 My experience spans climate research, machine learning, software engineering, and community organizing. Broadly, I care about climate action and social equity. I am particularly interested in machine learning for power and energy systems to make the clean energy transition more equitable. My other research interests include graph machine learning, data-driven agriculture, bioremediation. 
 
-Outside of work, I love being outdoors, whether I’m rock climbing, backpacking, hiking, or swimming. I also enjoy cooking, listening to live jazz, and playing pickleball.
+Outside of work, I love being outdoors, whether I’m rock climbing, trail running, or swimming. I also enjoy cooking and live jazz.
 
 ## Education
-- University of Washington, Incoming PhD in Electrical and Computer Engineering
+- University of Washington, PhD in Electrical and Computer Engineering, NSF Fellow
 - University of California, Los Angeles, BS in Computer Science, Class of 2025
 
 ## Work Experience
