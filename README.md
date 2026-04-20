@@ -48,6 +48,7 @@ Outside of work, I love being outdoors, whether I’m rock climbing, trail runni
 - Integrated mutagenesis, electrostatic interplay, and surface interactions to improve biodegradation of polyethylene terephthalate (PET plastic) by filamentous fungal enzyme Aspergillus Oryzae
 
 ## Publications
+- Capetz M., Sun Y., Subramonian A. [Fairness Implications of GNN-to-MLP Knowledge Distillation](https://openreview.net/pdf?id=6LPz8LlfeK) (NeurIPS 2025 Workshop Poster Paper, Reliable ML Workshop)
 - Capetz M., Sharma S., Padilha R., Olsen P., Kiciman E., Chandra R. [Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots](https://arxiv.org/abs/2411.16872) (NeurIPS 2024 Workshop Poster Paper, Climate Change AI Tackling Climate Change with ML Workshop)
 - Capetz M., Chance C., Pattichis R., Vinella A. Ghosh R., Chang K. [Leveraging Language Models to Detect Greenwashing (2023)](https://arxiv.org/abs/2311.01469) (Accepted to Southern California Natural Language Processing 2024)
 - Oskouie H., Chance C., Huang C., Capetz M., Eyeson E., Sarrafzadeh M. [Leveraging LLMs and Topic Modeling or Toxicity Classification](https://github.com/mcapetz/cs247) (Accepted to Computing, Networking, and Communication Workshop 2025, at the International Conference on Computing, Networking, and Communication)
@@ -60,15 +61,17 @@ Outside of work, I love being outdoors, whether I’m rock climbing, trail runni
 - [Carbon Conscious Cooking Cookbook](https://github.com/mcapetz/Cookbook)(October 2020)
 
 ## Honors and Awards
-- James N. Harger Scholarship in Engineering, UCLA Samueli School of Engineering, September 2024
-- AV Balakrishnan Endowed Scholarship Fund, UCLA Samueli School of Engineering, September 2023
-- Rivian Scholarship, Rivian via SWE @ UCLA, June 2023
-- Esther Williams Endowment Scholarship, Society of Women Engineers Santa Clara Valley, May 2023
-- SWE Los Angeles Section Scholarship, Society of Women Engineers Los Angeles, March 2023
-- Dr. Vincent Ho Scholarship in Engineering, UCLA Samueli School of Engineering, December 2021
-- 2nd, Biological Science Engineering Category, Synopsys Science & Technology Championship, March 2021
-- 5th, Senior Biochemistry Molecular Biology Category, California Science & Engineering Fair, March 2021
-- Esther Williams Endowment Scholarship, Society of Women Engineers Santa Clara Valley, March 2021
+- NSF Fellow, 2026
+- Grainger Fellowship, University of Washington, 2025
+- James N. Harger Scholarship in Engineering, UCLA Samueli School of Engineering, 2024
+- AV Balakrishnan Endowed Scholarship Fund, UCLA Samueli School of Engineering, 2023
+- Rivian Scholarship, Rivian via SWE @ UCLA, 2023
+- Esther Williams Endowment Scholarship, Society of Women Engineers Santa Clara Valley, 2023
+- SWE Los Angeles Section Scholarship, Society of Women Engineers Los Angeles, 2023
+- Dr. Vincent Ho Scholarship in Engineering, UCLA Samueli School of Engineering, 2021
+- 2nd, Biological Science Engineering Category, Synopsys Science & Technology Championship, 2021
+- 5th, Senior Biochemistry Molecular Biology Category, California Science & Engineering Fair, 2021
+- Esther Williams Endowment Scholarship, Society of Women Engineers Santa Clara Valley, 2021
 
 ## Leadership
 - External Vice President, [Society of Women Engineers @ UCLA](https://ucla.swe.org/), May 2023 - 2024
