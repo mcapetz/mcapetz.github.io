@@ -51,7 +51,7 @@ Outside of work, I love being outdoors, whether I’m rock climbing, trail runni
 - Capetz M., Sun Y., Subramonian A. [Fairness Implications of GNN-to-MLP Knowledge Distillation](https://openreview.net/pdf?id=6LPz8LlfeK) (NeurIPS 2025 Workshop Poster Paper, Reliable ML Workshop)
 - Capetz M., Sharma S., Padilha R., Olsen P., Kiciman E., Chandra R. [Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots](https://arxiv.org/abs/2411.16872) (NeurIPS 2024 Workshop Poster Paper, Climate Change AI Tackling Climate Change with ML Workshop)
 - Capetz M., Chance C., Pattichis R., Vinella A. Ghosh R., Chang K. [Leveraging Language Models to Detect Greenwashing (2023)](https://arxiv.org/abs/2311.01469) (Accepted to Southern California Natural Language Processing 2024)
-- Oskouie H., Chance C., Huang C., Capetz M., Eyeson E., Sarrafzadeh M. [Leveraging LLMs and Topic Modeling or Toxicity Classification](https://github.com/mcapetz/cs247) (Accepted to Computing, Networking, and Communication Workshop 2025, at the International Conference on Computing, Networking, and Communication)
+- Oskouie H., Chance C., Huang C., Capetz M., Eyeson E., Sarrafzadeh M. [Leveraging LLMs and Topic Modeling or Toxicity Classification](https://arxiv.org/pdf/2411.17876?) (Accepted to Computing, Networking, and Communication Workshop 2025, at the International Conference on Computing, Networking, and Communication)
 - Large scale Soil carbon estimation using sentinel 2 (In submission to Nature)
 
 
