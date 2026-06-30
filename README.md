@@ -1,10 +1,10 @@
 ## About
 ### [Linkedin](https://www.linkedin.com/in/margaret-capetz/) | [Github](https://github.com/mcapetz) | [CV](https://drive.google.com/file/d/1dxHOlopy9wz00jT0IdudCiQDdQzTSRnB/view?usp=sharing)
-Hello! I am a Computer Science undergraduate student at UCLA. I am interested in applying machine learning for equity and innovations in sustainability.
+Hello! I am a PhD student in the University of Washington's Electrical and Computer Engineering department, where I research power systems optimization. 
 
 My experience spans climate research, machine learning, software engineering, and community organizing. Broadly, I care about climate action and social equity. I am particularly interested in machine learning for power and energy systems to make the clean energy transition more equitable. My other research interests include graph machine learning, data-driven agriculture, bioremediation. 
 
-Outside of work, I love being outdoors, whether I’m rock climbing, trail running, or swimming. I also enjoy cooking and live jazz.
+Outside of work, I love being outdoors, whether I’m rock climbing, trail running, or biking. I also enjoy cooking and live jazz.
 
 ## Education
 - University of Washington, PhD in Electrical and Computer Engineering, NSF Fellow
