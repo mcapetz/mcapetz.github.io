@@ -29,7 +29,7 @@ Outside of work, I love being outdoors, whether I’m rock climbing, trail runni
 - Promoted equity in healthcare for 500+ users by developing React hook-based forms for community review platform for social impact startup
 
 ## Research Experience
-**Research Assistant @ UCLA Scalable Analytics Institute (_March 2023 - Present_)**
+**Research Assistant @ UCLA Scalable Analytics Institute (_March 2023 - June 2025_)**
 - Analyze fairness implications of knowledge distillation from graph convolutional networks to multilayer perceptrons for the task of node attribute classification with sensitive attributes on natively graph data
 - Working with [Professor Yizhou Sun](https://web.cs.ucla.edu/~yzsun/), [Arjun Subramonian](https://arjunsubramonian.github.io/)
   
@@ -61,7 +61,8 @@ Outside of work, I love being outdoors, whether I’m rock climbing, trail runni
 - [Carbon Conscious Cooking Cookbook](https://github.com/mcapetz/Cookbook)(October 2020)
 
 ## Honors and Awards
-- NSF Fellow, 2026
+- UW Clean Energy Institute Graduate Fellow, 2026
+- NSF Graduate Fellow, 2026
 - Grainger Fellowship, University of Washington, 2025
 - James N. Harger Scholarship in Engineering, UCLA Samueli School of Engineering, 2024
 - AV Balakrishnan Endowed Scholarship Fund, UCLA Samueli School of Engineering, 2023
